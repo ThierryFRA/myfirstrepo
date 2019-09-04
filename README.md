@@ -1,2 +1,2 @@
 # myfirstrepo
-Training git &amp; github
+Training git & github with python script
